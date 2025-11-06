@@ -10,4 +10,4 @@ link: https://lk.100points.ru/student/lesson/70168
 ---
 # Большой конспект вся тригонометрия
 ![[../resourses/Block_2/большой_конспект_вся_трига.pdf|большой_конспект_вся_трига]]
-[К уроку 15](<Lesson 15>) [К списку](<All lessons>) 
+[К уроку 15](<Block2/Lesson 15.md>) [К списку](<All lessons>) 
