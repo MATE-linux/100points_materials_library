@@ -33,4 +33,6 @@
 Чек-лист по подготовке к ЕГЭ по профильной математике: [[Check list]]  
 
 Загрузки:
-- [Материалы за блок 1 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_1/Block_1.zip)
+- [Материалы за блок 1 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_1/Block_1.zip)  
+- [Материалы за блок 2 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_2/Block_2.zip)  
+- [Материалы за оба доступных блока одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_2/Block1+2.zip)  
