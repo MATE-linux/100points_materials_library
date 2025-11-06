@@ -6,4 +6,4 @@ link:
 # 
 ##
 ![[]]  
-[<<Предыдущий](<../Math 10 class/Block2/Lesson 11.md>) [К списку](<All lessons>) 
+[<<Предыдущий](<../Math 10 class/Lesson 11.md>) [К списку](<All lessons>) 
