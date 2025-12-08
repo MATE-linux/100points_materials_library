@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "898ed58acdf3793a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8f24ebbcf23827c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8465548ebbbcd3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 10 class/All lessons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All lessons"
+            }
+          },
+          {
+            "id": "768c6968f78b73b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 10 class/Lesson 24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 24"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76fe547c2cd306a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b96ad959ead6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5d7524afe0a3e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e3abefe3b3bf35e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "75743c217b37c9e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "85ab19d49f04c465",
+    "type": "split",
+    "children": [
+      {
+        "id": "12cd6470f96bd89e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a902707e9a3110ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math 10 class/All lessons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для All lessons"
+            }
+          },
+          {
+            "id": "9e52aab827026aab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Математика 10 класс/Занятие 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Занятие 2"
+            }
+          },
+          {
+            "id": "0262d366ecff4b05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "1956f89618f98b8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Математика 10 класс/Занятие 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Занятие 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fit:Sync to GitHub": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "768c6968f78b73b2",
+  "lastOpenFiles": [
+    "Math 10 class/Lesson 23.md",
+    "Math 10 class/Lesson 22.md",
+    "Math 10 class/Lesson 24.md",
+    "Math 10 class/All lessons.md",
+    "index.md",
+    "IS.md",
+    "Physics 10 class/All lessons.md",
+    "resourses/ИС_ШПОРА_УРА1.pdf",
+    "Physics 10 class/Additional material 3.md",
+    "resourses/Physics_10_class/photo_2025-12-04_18-39-29.jpg",
+    "Math 10 class/Lesson 13.md",
+    "Math 10 class/Lesson 14.md",
+    "Math 10 class/Lesson 15.md",
+    "Math 10 class/Lesson 18.md",
+    "Math 10 class/Lesson 16.md",
+    "Math 10 class/Lesson 19.md",
+    "Math 10 class/Lesson 21.md",
+    "Math 10 class/Additional material 9.md",
+    "resourses/Math_10_class/Гайд_по_курсу_Математика_10_класс.pdf",
+    "resourses/Math_10_class/Окружности.pdf",
+    "resourses/Math_10_class/Block_1/теория_тригонометрические_формулы_2.pdf",
+    "resourses/Math_10_class/Block_1/теория_основы_планиметри_2.pdf",
+    "resourses/Math_10_class/Block_1/теория_основы_планиметрии_3.pdf",
+    "resourses/Math_10_class/Block_1/теория_трига.pdf",
+    "resourses/Math_10_class/Block_1/теория_треугольники_зантие_2.pdf",
+    "resourses/Math_10_class/Block_1/оснвы_планиметрии.pdf",
+    "resourses/Math_10_class/Block_1/теория_тригонометрические_формулы.pdf",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-14.jpg",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-02.jpg",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-38-15.jpg",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-09.jpg",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-11.jpg",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-19-57.jpg",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-07.jpg",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-04.jpg",
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-38-11.jpg",
+    "Physics 10 class early/All lessons.md",
+    "Physics 10 class/Reference.md",
+    "Physics 10 class early/Lesson 5.md",
+    "Physics 10 class early/Lesson 4.md",
+    "Physics 10 class early/Lesson 3.md",
+    "Physics 10 class early/Lesson 1.md",
+    "Physics 10 class early/Lesson 2.md",
+    "Math 10 class/Lesson 2.md",
+    "Math 10 class/Lesson 3.md",
+    "Math 10 class/Lesson 4.md"
+  ]
+}
