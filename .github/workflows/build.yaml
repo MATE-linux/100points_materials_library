@@ -18,11 +18,17 @@ jobs:
       with:
         fetch-depth: 0
 
+    - name: Get current date
+      id: date
+      run: echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+
     - name: Create Windows-compatible ZIP
       run: |
         cd resourses/Math_10_class/
         apt-get update && apt-get install -y p7zip-full
         7z a -tzip ../../math_10_class_resources.zip . -xr!"Block_*" -xr!"shedule_images"
+        echo "Архив создан: math_10_class_resources.zip"
+        ls -lh ../../math_10_class_resources.zip
 
     - name: Upload Archive to Release
       uses: softprops/action-gh-release@v1
@@ -33,11 +39,11 @@ jobs:
         body: |
           ## Архив дополнительных материалов из канала Дяди Артема по математике для 10 класса  
           
-          **Дата сборки:** ${{ github.event.head_commit.timestamp || now() }}  
+          **Дата сборки:** ${{ steps.date.outputs.date || github.event.head_commit.timestamp }}  
           
           *Сгенерировано автоматически, релиз автообновляется и всегда актуален*  
         prerelease: false
         draft: false
-        replace_assets: true  # Заменять существующие файлы с тем же именем
+        replace_assets: true
       env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
