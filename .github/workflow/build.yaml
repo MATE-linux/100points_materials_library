@@ -1,0 +1,43 @@
+name: Build Math 10 Class Archive
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'resourses/Math_10_class/**'
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Create Windows-compatible ZIP
+      run: |
+        cd resourses/Math_10_class/
+        apt-get update && apt-get install -y p7zip-full
+        7z a -tzip ../../math_10_class_resources.zip . -xr!"Block_*" -xr!"shedule_images"
+
+    - name: Upload Archive to Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: math_10_class_resources.zip
+        tag_name: math-10-class-v${{ github.run_number }}
+        name: "Math 10 Class Resources (v${{ github.run_number }})"
+        body: |
+          ## Архив дополнительных материалов из канала Дяди Артема по математике для 10 класса  
+          
+          **Дата сборки:** ${{ github.event.head_commit.timestamp || now() }}  
+          
+          *Сгенерировано автоматически, релиз автообновляется и всегда актуален*  
+        prerelease: false
+        draft: false
+        replace_assets: true  # Заменять существующие файлы с тем же именем
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}

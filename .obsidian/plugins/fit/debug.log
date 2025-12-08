@@ -70,3 +70,9 @@
   "remoteShaCount": 65,
   "lastCommit": "7c958ae4fba7d4ec4855cabf91dbf3a2bf15f17b"
 }
+[2025-12-08T15:26:42.459Z] [Fit] SHA caches loaded from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 64,
+  "remoteShaCount": 65,
+  "lastCommit": "7c958ae4fba7d4ec4855cabf91dbf3a2bf15f17b"
+}
