@@ -2,10 +2,10 @@
 
 | Урок                                   | Тема                                                                                    | Тема конспекта                                                                                         | Ссылка на урок                                          |
 | -------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| [[Math 10 class/Lesson 2]]             | Урок №02. Задание №1. Простейшая планиметрия                                            | ТЕОРИЯ. треугольники                                                                                   | [Урок 2](https://lk.100points.ru/student/lesson/68600)  |
-| [[Math 10 class/Lesson 3]]             | Урок №03. Тригонометрические функции                                                    | ТЕОРИЯ. тригонометрия                                                                                  | [Урок 3](https://lk.100points.ru/student/lesson/68601)  |
-| [[Math 10 class/Lesson 4]]             | Урок №04. Задание №1. Простейшая планиметрия                                            | ТЕОРИЯ. основы планиметрии                                                                             | [Урок 4](https://lk.100points.ru/student/lesson/68602)  |
-| [[Math 10 class/Lesson 5]]             | Урок №05. Тригонометрические формулы                                                    | ТЕОРИЯ. тригонометрические формулы                                                                     | [Урок 5](https://lk.100points.ru/student/lesson/68603)  |
+| [[Math 10 class/Lesson 2\|Lesson 2]]   | Урок №02. Задание №1. Простейшая планиметрия                                            | ТЕОРИЯ. треугольники                                                                                   | [Урок 2](https://lk.100points.ru/student/lesson/68600)  |
+| [[Math 10 class/Lesson 3\|Lesson 3]]   | Урок №03. Тригонометрические функции                                                    | ТЕОРИЯ. тригонометрия                                                                                  | [Урок 3](https://lk.100points.ru/student/lesson/68601)  |
+| [[Math 10 class/Lesson 4\|Lesson 4]]   | Урок №04. Задание №1. Простейшая планиметрия                                            | ТЕОРИЯ. основы планиметрии                                                                             | [Урок 4](https://lk.100points.ru/student/lesson/68602)  |
+| [[Math 10 class/Lesson 5 \| Lesson 5]] | Урок №05. Тригонометрические формулы                                                    | ТЕОРИЯ. тригонометрические формулы                                                                     | [Урок 5](https://lk.100points.ru/student/lesson/68603)  |
 | [[Lesson 6]]                           | Урок №06. Задание №1. Простейшая планиметрия                                            | ТЕОРИЯ. основы планиметрии 2.0                                                                         | [Урок 6](https://lk.100points.ru/student/lesson/68604)  |
 | [[Lesson 7]]                           | Урок №07. Тригонометрические формулы                                                    | ТЕОРИЯ. тригонометрические формулы 2.0                                                                 | [Урок 7](https://lk.100points.ru/student/lesson/68605)  |
 | [[Lesson 8]]                           | Урок №08. Задание №17. Сложная планиметрия                                              | ТЕОРИЯ.основы планиметрии 3.0                                                                          | [Урок 8](https://lk.100points.ru/student/lesson/68606)  |
@@ -25,6 +25,7 @@
 | [[Math 10 class/Lesson 22\|Lesson 22]] | Урок №22. Основы стереометрии. Пирамида.                                                | ТЕОРИЯ.Основы стереометрии. Пирамида                                                                   | [Урок 22](https://lk.100points.ru/student/lesson/71430) |
 | [[Math 10 class/Lesson 23\|Lesson 23]] | Урок №23. Простейшие тригонометрические неравенства.                                    | ТЕОРИЯ. Простейшие тригонометрические неравенства.                                                     | [Урок 23](https://lk.100points.ru/student/lesson/71431) |
 | [[Math 10 class/Lesson 24\|Lesson 24]] | Урок №24. Метод объемов. Тела вращения                                                  | ТЕОРИЯ. Основы стереометрии. Циллиндр.                                                                 | [Урок 24](https://lk.100points.ru/student/lesson/71432) |
+| [[Math 10 class/Lesson 25\|Lesson 25]] | Урок №25. Задание №10. Текстовые задачи на проценты                                     | ТЕОРИЯ. Решение задач на проценты, смеси и сплавы.                                                     | [Урок 25](https://lk.100points.ru/student/lesson/74640) |
 
 Также добавлю список дополнительных материалов из канала Дяди Артёма:
 
@@ -49,5 +50,6 @@
 Загрузки:  
 - [Материалы за блок 1 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_1/Block_1.zip)  
 - [Материалы за блок 2 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_2/Block_2.zip)  
-- [Материалы за оба доступных блока одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_2/Block1+2.zip)  
+- [Материалы за блок 3 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Math_10_block_3/Block3_Math_10.zip)
+- [Материалы за все доступные блоки одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Math_10_block_3/Block1+2+3_Math_10.zip)  
 [На главную](index)  
