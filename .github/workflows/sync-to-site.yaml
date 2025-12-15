@@ -17,20 +17,25 @@ jobs:
           
       - name: Clone and Update Site
         env:
-          SITE_TOKEN: ${{ secrets.TOKEN }}
+          SITE_TOKEN: ${{ secrets.SITE_TOKEN }}
         run: |
-          # Клонируем сайт
-          git clone https://x-access-token:${SITE_TOKEN}@github.com/MATE-linux/100points_library_site.git site-repo
-          cd site-repo
+          # Клонируем сайт в /tmp, чтобы не смешивать с библиотекой
+          git clone https://x-access-token:${SITE_TOKEN}@github.com/MATE-linux/100points_library_site.git /tmp/site-repo
+          cd /tmp/site-repo
           git checkout v4
           git pull origin v4
           
           # Удаляем всё в content сайта
           rm -rf content/*
           
-          # Копируем всё из библиотеки (кроме .git и служебных файлов)
-          find ../ -maxdepth 1 -name '.git' -prune -o -type f -exec cp --parents {} content/ \; 2>/dev/null || true
-          find ../ -mindepth 2 -name '.git' -prune -o -type f -exec cp --parents {} content/ \; 2>/dev/null || true
+          # Копируем всё из библиотеки (текущий workspace) в content сайта, исключая .git и .github
+          # Используем rsync для удобного исключения
+          rsync -av \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='physics_10_class_resources.zip' \
+            --exclude='math_10_class_resources.zip' \
+            $GITHUB_WORKSPACE/ ./content/
           
           # Настраиваем git и коммитим
           git config user.name "github-actions[bot]"
