@@ -17,7 +17,7 @@ jobs:
           
       - name: Clone and Update Site
         env:
-          SITE_TOKEN: ${{ secrets.SITE_TOKEN }}
+          SITE_TOKEN: ${{ secrets.TOKEN }}
         run: |
           # Клонируем сайт в /tmp, чтобы не смешивать с библиотекой
           git clone https://x-access-token:${SITE_TOKEN}@github.com/MATE-linux/100points_library_site.git /tmp/site-repo
