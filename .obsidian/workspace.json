@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 10 class/All lessons.md",
+                "file": "Math 10 class/All lessons.md",
                 "mode": "source",
                 "source": false
               },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 10 class/All lessons.md",
+                "file": "Math 10 class/All lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -198,8 +198,24 @@
   },
   "active": "768c6968f78b73b2",
   "lastOpenFiles": [
-    "Math 10 class/All lessons.md",
     "Physics 10 class/All lessons.md",
+    "Physics 10 class/Shedule.md",
+    "Physics 10 class/Reference.md",
+    "Physics 10 class/Platform guide.md",
+    "Physics 10 class/Course tutorial 1.md",
+    "Physics 10 class/Course tutorial 0.md",
+    "Physics 10 class/Additional material 1.md",
+    "Physics 10 class/Additional material 2.md",
+    "Physics 10 class/Additional material 3.md",
+    "Physics 10 class/Additional material 4.md",
+    "Physics 10 class/Additional material 5.md",
+    "Physics 10 class/Additional material 6.md",
+    "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-10.jpg",
+    "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-08.jpg",
+    "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-07.jpg",
+    "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-04.jpg",
+    "resourses/Physics_10_class/Additional_material_6",
+    "Math 10 class/All lessons.md",
     "Math 10 class/Additional material 3.md",
     "Math 10 class/Additional material 8.md",
     "Math 10 class/Additional material 9.md",
@@ -210,22 +226,10 @@
     "Math 10 class/Lesson 23.md",
     "Math 10 class/Lesson 21.md",
     "Math 10 class/Lesson 16.md",
-    "Physics 10 class/Additional material 3.md",
-    "Physics 10 class/Additional material 4.md",
-    "Physics 10 class/Additional material 5.md",
-    "Physics 10 class/Additional material 2.md",
-    "Physics 10 class/Additional material 1.md",
-    "Physics 10 class/Shedule.md",
-    "Physics 10 class/Reference.md",
-    "Physics 10 class/Platform guide.md",
-    "Physics 10 class/Course tutorial 1.md",
-    "Physics 10 class/Course tutorial 0.md",
     "content/Physics 10 class/Course tutorial 0.md",
     "content/Physics 10 class",
     "content",
     "Ex13Rus.md",
-    "README.md",
-    "index.md",
     "resourses/ИС_ШПОРА_УРА1.pdf",
     "resourses/Physics_10_class/photo_2025-12-04_18-39-29.jpg",
     "resourses/Math_10_class/Гайд_по_курсу_Математика_10_класс.pdf",
@@ -234,15 +238,10 @@
     "resourses/Math_10_class/Block_1/теория_основы_планиметри_2.pdf",
     "resourses/Math_10_class/Block_1/теория_основы_планиметрии_3.pdf",
     "resourses/Math_10_class/Block_1/теория_трига.pdf",
-    "resourses/Math_10_class/Block_1/теория_треугольники_зантие_2.pdf",
     "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-14.jpg",
     "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-02.jpg",
     "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-38-15.jpg",
     "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-09.jpg",
-    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-11.jpg",
-    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-19-57.jpg",
-    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-07.jpg",
-    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-04.jpg",
-    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-38-11.jpg"
+    "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-11.jpg"
   ]
 }

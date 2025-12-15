@@ -39,7 +39,7 @@
 | Критерии уравнений                                        | [[Math 10 class/Additional material 3]]                          | https://t.me/c/2666478349/124                           |
 | Шпора по текстовым задачам                                | [[Math 10 class/Additional material 4]]                          | https://t.me/molodoy_repet/8597                         |
 | ШПАРГАЛКА ПО РЕШЕНИЮ БАЗОВЫХ ТРИГОНОМЕТРИЧЕСКИХ УРАВНЕНИЙ | [[Math 10 class/Additional material 5]]                          | https://t.me/molodoy_repet/8646                         |
-| Окружность                                                | [[Additional material 6]]                                        | https://t.me/molodoy_repet/8699                         |
+| Окружность                                                | [[Math 10 class/Additional material 6]]                                        | https://t.me/molodoy_repet/8699                         |
 | ШПАРГАЛКА. Действия с процентами.                         | [[Math 10 class/Additional material 7\|Additional material 7]]   | https://t.me/molodoy_repet/8744                         |
 | ШПАРГАЛКА. Прогрессии.                                    | [[Math 10 class/Additional material 8\|Additional material 8]]   | https://t.me/molodoy_repet/8767                         |
 | ШПАРГАЛКА. Куб, параллелепипед, призма.                   | [[Math 10 class/Additional material 9\|Additional material 9]]   | https://t.me/molodoy_repet/8786                         |

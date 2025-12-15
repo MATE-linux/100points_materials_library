@@ -5,7 +5,6 @@ tags:
   - колебания
   - волны
   - звук
-  - арккосинус
 created: 2025-12-15
 link: https://t.me/fizikaoge/8669
 ---
