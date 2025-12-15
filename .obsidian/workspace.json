@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 10 class/All lessons.md",
+                "file": "Math 10 class/Additional material 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All lessons"
+              "title": "Additional material 10"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 10 class/All lessons.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из All lessons"
+              "title": "Исходящие ссылки из index"
             }
           },
           {
@@ -185,7 +185,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quartz-syncer:Quartz Syncer publication center": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -198,6 +197,32 @@
   },
   "active": "768c6968f78b73b2",
   "lastOpenFiles": [
+    "Math 10 class/All lessons.md",
+    "Math 10 class/Lesson 27.md",
+    "Math 10 class/Lesson 26.md",
+    "Math 10 class/Lesson 25.md",
+    "resourses/Math_10_class/Block_4/текстовые_задачи_на_двиЖение.pdf",
+    "resourses/Math_10_class/Block_4/Не подтвержден 596443.crdownload",
+    "index.md",
+    "Advertisement.md",
+    "resourses/Russian_language_additionals/ИС_ШПОРА_УРА1.pdf",
+    "resourses/Russian_language_additionals",
+    "Russian language additionals/All lessons.md",
+    "Russian language additionals/Dict 1.md",
+    "Russian language additionals/Dict 2.md",
+    "Russian language additionals/Dict 3.md",
+    "Russian language additionals/Ex1Rus.md",
+    "Russian language additionals/Ex8Rus.md",
+    "Russian language additionals/Ex9-15Rus.md",
+    "Russian language additionals/Ex13Rus.md",
+    "Russian language additionals/IS.md",
+    "Responsibles.md",
+    "Russian language additionals",
+    "resourses/Russian_language_additionals/Русский3_конспект4_Части_речи_для_задания_1.pdf",
+    "resourses/Russian_language_additionals/Русский3_конспект3_Теория_Задание_№8.pdf",
+    "resourses/Russian_language_additionals/Русский3_конспект2_Теория_Задания_№9_15.pdf",
+    "resourses/Russian_language_additionals/Словарь фразеологизмов.pdf",
+    "resourses/Russian_language_additionals/Список словарных слов.pdf",
     "Physics 10 class/All lessons.md",
     "Physics 10 class/Shedule.md",
     "Physics 10 class/Reference.md",
@@ -208,36 +233,11 @@
     "Physics 10 class/Additional material 2.md",
     "Physics 10 class/Additional material 3.md",
     "Physics 10 class/Additional material 4.md",
-    "Physics 10 class/Additional material 5.md",
-    "Physics 10 class/Additional material 6.md",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-10.jpg",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-08.jpg",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-07.jpg",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-04.jpg",
-    "resourses/Physics_10_class/Additional_material_6",
-    "Math 10 class/All lessons.md",
-    "Math 10 class/Additional material 3.md",
-    "Math 10 class/Additional material 8.md",
-    "Math 10 class/Additional material 9.md",
-    "Math 10 class/Additional material 10.md",
-    "Math 10 class/Lesson 26.md",
-    "Math 10 class/Lesson 25.md",
-    "Math 10 class/Lesson 24.md",
-    "Math 10 class/Lesson 23.md",
-    "Math 10 class/Lesson 21.md",
-    "Math 10 class/Lesson 16.md",
-    "content/Physics 10 class/Course tutorial 0.md",
-    "content/Physics 10 class",
-    "content",
-    "Ex13Rus.md",
-    "resourses/ИС_ШПОРА_УРА1.pdf",
     "resourses/Physics_10_class/photo_2025-12-04_18-39-29.jpg",
-    "resourses/Math_10_class/Гайд_по_курсу_Математика_10_класс.pdf",
-    "resourses/Math_10_class/Окружности.pdf",
-    "resourses/Math_10_class/Block_1/теория_тригонометрические_формулы_2.pdf",
-    "resourses/Math_10_class/Block_1/теория_основы_планиметри_2.pdf",
-    "resourses/Math_10_class/Block_1/теория_основы_планиметрии_3.pdf",
-    "resourses/Math_10_class/Block_1/теория_трига.pdf",
     "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-14.jpg",
     "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-20-02.jpg",
     "resourses/Math_10_class/shedule_images/photo_2025-10-16_19-38-15.jpg",

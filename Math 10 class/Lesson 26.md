@@ -18,4 +18,4 @@ link: https://lk.100points.ru/student/lesson/74642
 # Урок №26. Уравнения высших степеней
 ## ТЕОРИЯ.Теорема Безу и схема Горнера.
 ![[resourses/Math_10_class/Block_4/теория_теорема_безу_и_схема_горнера.pdf|теория_теорема_безу_и_схема_горнера]]  
-[<<Предыдущий](<../Math 10 class/Lesson 25.md>) [К списку](<Math 10 class/All lessons>) 
+[<<Предыдущий](<../Math 10 class/Lesson 25.md>) [К списку](<Math 10 class/All lessons>) [Следующий>>](<Lesson 27.md>)  
