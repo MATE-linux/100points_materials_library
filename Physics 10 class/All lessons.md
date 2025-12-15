@@ -25,6 +25,6 @@
 Гайд по работе с платформой 100б: [[Physics 10 class/Platform guide|Platform guide]]  
   
 Загрузки:  
-- [Дополнительные материалы из канала Азата Адеева одним архивом]()
+- [Дополнительные материалы из канала Азата Адеева одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/physics-10-class-v4/physics_10_class_resources.zip)
   
 [На главную](index)  
