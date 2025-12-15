@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quartz-syncer:Quartz Syncer publication center": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,

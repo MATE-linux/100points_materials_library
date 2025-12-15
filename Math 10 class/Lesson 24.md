@@ -25,4 +25,4 @@ link: https://lk.100points.ru/student/lesson/71432
 # Урок №24. Метод объемов. Тела вращения
 ## ТЕОРИЯ. Основы стереометрии. Циллиндр.
 ![[resourses/Math_10_class/Block_3/теория_основы_стереометрии_циллиндр.pdf|теория_основы_стереометрии_циллиндр]]  
-[<<Предыдущий](<../Math 10 class/Lesson 23.md>) [К списку](<Math 10 class/All lessons>) 
+[<<Предыдущий](<../Math 10 class/Lesson 23.md>) [К списку](<Math 10 class/All lessons>) [Следующий>>](<Lesson 25.md>)  
