@@ -19,12 +19,11 @@
   
 Расписание курса: [[Physics 10 class/Shedule|Shedule]]  
 Справочный материал: [[Physics 10 class/Reference|Reference]]  
-Инструкция к курсу: [[content/Physics 10 class/Course tutorial 0|Course tutorial 0]]  
-Как учиться на физике: [[content/Physics 10 class/Course tutorial 1|Course tutorial 1]]  
-Гайд по работе с платформой 100б: [[content/Physics 10 class/Platform guide|Platform guide]]  
-Дополнительные материалы из канала Азата Адеева одним архивом  
+Инструкция к курсу: [[Physics 10 class/Course tutorial 0|Course tutorial 0]]  
+Как учиться на физике: [[Physics 10 class/Course tutorial 1|Course tutorial 1]]  
+Гайд по работе с платформой 100б: [[Physics 10 class/Platform guide|Platform guide]]  
   
 Загрузки:  
-*Загрузок пока что нет*  
+- [Дополнительные материалы из канала Азата Адеева одним архивом]()
   
 [На главную](index)  

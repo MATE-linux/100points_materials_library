@@ -22,6 +22,6 @@ created: 2025-12-11
 link: https://t.me/molodoy_repet/8837
 ---
 # ШПАРГАЛКА. Площади всех фигур.
-![[content/resourses/Math_10_class/Площади_всех_фигур.pdf]] 
+![[resourses/Math_10_class/Площади_всех_фигур.pdf]] 
 Ссылка: https://t.me/molodoy_repet/8837  
 [К списку](<Math 10 class/All lessons>)  

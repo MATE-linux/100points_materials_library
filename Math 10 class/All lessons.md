@@ -30,23 +30,23 @@
 
 Также добавлю список дополнительных материалов из канала Дяди Артёма:
 
-| Тема материала                                            | Ссылка на просмотр                                                       | Ссылка на тг                                            |
-| --------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-| Параллелограмм в заданиях огэ и егэ                       | [[Additional material 1]]                                                | https://t.me/molodoy_repet/8329                         |
-| Шпаргалка по основам                                      | [[Base]]                                                                 | https://t.me/molodoy_repet/8361                         |
-| ВСЁ О ТРАПЕЦИИ                                            | [[Math 10 class/Additional material 2]]                                  | https://t.me/molodoy_repet/8536                         |
-| Большой конспект  по всей тригонометрии                   | [[Big conspect]]                                                         | [Урок 15](https://lk.100points.ru/student/lesson/70168) |
-| Критерии уравнений                                        | [[Math 10 class/Additional material 3]]                                  | https://t.me/c/2666478349/124                           |
-| Шпора по текстовым задачам                                | [[content/Math 10 class/Additional material 4]]                          | https://t.me/molodoy_repet/8597                         |
-| ШПАРГАЛКА ПО РЕШЕНИЮ БАЗОВЫХ ТРИГОНОМЕТРИЧЕСКИХ УРАВНЕНИЙ | [[content/Math 10 class/Additional material 5]]                                                | https://t.me/molodoy_repet/8646                         |
-| Окружность                                                | [[Additional material 6]]                                                | https://t.me/molodoy_repet/8699                         |
-| ШПАРГАЛКА. Действия с процентами.                         | [[Math 10 class/Additional material 7\|Additional material 7]]           | https://t.me/molodoy_repet/8744                         |
-| ШПАРГАЛКА. Прогрессии.                                    | [[Math 10 class/Additional material 8\|Additional material 8]]           | https://t.me/molodoy_repet/8767                         |
-| ШПАРГАЛКА. Куб, параллелепипед, призма.                   | [[Math 10 class/Additional material 9\|Additional material 9]]           | https://t.me/molodoy_repet/8786                         |
-| ШПАРГАЛКА. Площади всех фигур.                            | [[content/Math 10 class/Additional material 10\|Additional material 10]] | https://t.me/molodoy_repet/8837                         |
+| Тема материала                                            | Ссылка на просмотр                                               | Ссылка на тг                                            |
+| --------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------- |
+| Параллелограмм в заданиях огэ и егэ                       | [[Additional material 1]]                                        | https://t.me/molodoy_repet/8329                         |
+| Шпаргалка по основам                                      | [[Base]]                                                         | https://t.me/molodoy_repet/8361                         |
+| ВСЁ О ТРАПЕЦИИ                                            | [[Math 10 class/Additional material 2]]                          | https://t.me/molodoy_repet/8536                         |
+| Большой конспект  по всей тригонометрии                   | [[Big conspect]]                                                 | [Урок 15](https://lk.100points.ru/student/lesson/70168) |
+| Критерии уравнений                                        | [[Math 10 class/Additional material 3]]                          | https://t.me/c/2666478349/124                           |
+| Шпора по текстовым задачам                                | [[Math 10 class/Additional material 4]]                          | https://t.me/molodoy_repet/8597                         |
+| ШПАРГАЛКА ПО РЕШЕНИЮ БАЗОВЫХ ТРИГОНОМЕТРИЧЕСКИХ УРАВНЕНИЙ | [[Math 10 class/Additional material 5]]                          | https://t.me/molodoy_repet/8646                         |
+| Окружность                                                | [[Additional material 6]]                                        | https://t.me/molodoy_repet/8699                         |
+| ШПАРГАЛКА. Действия с процентами.                         | [[Math 10 class/Additional material 7\|Additional material 7]]   | https://t.me/molodoy_repet/8744                         |
+| ШПАРГАЛКА. Прогрессии.                                    | [[Math 10 class/Additional material 8\|Additional material 8]]   | https://t.me/molodoy_repet/8767                         |
+| ШПАРГАЛКА. Куб, параллелепипед, призма.                   | [[Math 10 class/Additional material 9\|Additional material 9]]   | https://t.me/molodoy_repet/8786                         |
+| ШПАРГАЛКА. Площади всех фигур.                            | [[Math 10 class/Additional material 10\|Additional material 10]] | https://t.me/molodoy_repet/8837                         |
 
 Расписание курса: [[Shedule]]  
-Гайд по курсу: [[content/Math 10 class/Course guide]]  
+Гайд по курсу: [[Math 10 class/Course guide]]  
 Чек-лист по подготовке к ЕГЭ по профильной математике: [[Check list]]  
 
 Загрузки:  
