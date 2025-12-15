@@ -1,0 +1,86 @@
+name: Build Math 10 Class Archive
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'resourses/Math_10_class/**'
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Get current date
+      id: date
+      run: echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+
+    - name: Create Windows-compatible ZIP
+      run: |
+        cd resourses/Math_10_class/
+        apt-get update && apt-get install -y p7zip-full
+        7z a -tzip ../../math_10_class_resources.zip . -xr!"Block_*" -xr!"shedule_images"
+        echo "Архив создан: math_10_class_resources.zip"
+        ls -lh ../../math_10_class_resources.zip
+
+    - name: Upload Archive to Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: math_10_class_resources.zip
+        tag_name: math-10-class-v${{ github.run_number }}
+        name: "Math 10 Class Resources (v${{ github.run_number }})"
+        body: |
+          ## Архив дополнительных материалов из канала Дяди Артема по математике для 10 класса  
+          
+          **Дата сборки:** ${{ steps.date.outputs.date || github.event.head_commit.timestamp }}  
+          
+          *Сгенерировано автоматически, релиз автообновляется и всегда актуален*  
+        prerelease: false
+        draft: false
+        replace_assets: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Update download link in Markdown
+      env:
+        RELEASE_TAG: math-10-class-v${{ github.run_number }}
+      run: |
+        # Формируем новую строку со ссылкой
+        NEW_LINK="- [Дополнительные материалы из канала Дяди Артёма одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/$RELEASE_TAG/math_10_class_resources.zip)"
+        
+        # Путь к вашему Markdown файлу (проверьте его точное расположение)
+        MD_FILE="content/Math_10_class/All lessons"
+        
+        # Проверяем, существует ли файл
+        if [ ! -f "$MD_FILE" ]; then
+          echo "Ошибка: Файл $MD_FILE не найден!"
+          exit 1
+        fi
+        
+        # Используем sed для замены строки в файле.
+        # Шаблон ищет строку, начинающуюся с "- [Дополнительные материалы..."
+        sed -i "s|^- \[Дополнительные материалы из канала Дяди Артёма одним архивом\].*$|$NEW_LINK|g" "$MD_FILE"
+        
+        echo "Ссылка обновлена в файле $MD_FILE"
+        echo "Новая ссылка: $NEW_LINK"
+
+    - name: Commit and push updated file
+      env:
+        RELEASE_TAG: math-10-class-v${{ github.run_number }}
+      run: |
+        # Настраиваем git
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Коммитим изменения
+        git add "content/Math_10_class/All lessons"
+        git commit -m "Update download link for release $RELEASE_TAG"
+        
+        # Пушим изменения в ветку
+        git push origin main
