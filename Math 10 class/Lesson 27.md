@@ -22,4 +22,4 @@ link: https://lk.100points.ru/student/lesson/74643
 # Урок №27. Задание №10. Текстовые задачи на движение по суше
 ## ТЕОРИЯ.Тестовые задачи на движение.
 ![[resourses/Math_10_class/Block_4/текстовые_задачи_на_двиЖение.pdf|текстовые_задачи_на_двиЖение]]  
-[<<Предыдущий](<../Math 10 class/Lesson 26.md>) [К списку](<Math 10 class/All lessons>) 
+[<<Предыдущий](<../Math 10 class/Lesson 26.md>) [К списку](<Math 10 class/All lessons>) [Следующий>>](<Lesson 28.md>)  

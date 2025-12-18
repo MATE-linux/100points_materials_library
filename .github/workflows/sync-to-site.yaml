@@ -43,7 +43,7 @@ jobs:
           
           if [ -n "$(git status --porcelain)" ]; then
             git add .
-            git commit -m "Auto-sync from library: ${{ github.sha }} [skip ci]"
+            git commit -m "Auto-sync from library: ${{ github.sha }}"
             git push origin v4
             echo "✅ Весь контент синхронизирован с сайтом"
           else
