@@ -3,6 +3,9 @@ tags:
   - ТЕОРИЯ
   - Математика_10_класс
   - ПРАКТИКА
+  - теория_вероятностей
+  - вероятность
+
 created: 2025-12-15
 link: https://lk.100points.ru/student/lesson/74644
 ---
@@ -11,4 +14,4 @@ link: https://lk.100points.ru/student/lesson/74644
 ![[resourses/Math_10_class/Block_4/теория_вероятностей.pdf|теория_вероятностей]]  
 ## Заполненный скрипт  
 ![[resourses/Math_10_class/Block_4/урок28_заполненный_скрипт.pdf|урок28_заполненный_скрипт]]
-[<<Предыдущий](<../Math 10 class/Lesson 27.md>) [К списку](<Math 10 class/All lessons>) 
+[<<Предыдущий](<../Math 10 class/Lesson 27.md>) [К списку](<Math 10 class/All lessons>) [Следующий>>](<Lesson 29.md>)  
