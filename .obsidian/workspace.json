@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 10 class/All lessons.md",
+                "file": "Math 10 class/Lesson 30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All lessons"
+              "title": "Lesson 30"
             }
           }
         ],
@@ -197,11 +197,14 @@
   },
   "active": "768c6968f78b73b2",
   "lastOpenFiles": [
+    "Math 10 class/Lesson 31.md",
+    "Math 10 class/Lesson 30.md",
+    "Math 10 class/Lesson 29.md",
+    "Math 10 class/All lessons.md",
     "Math 10 class/Lesson 28.md",
     "Math 10 class/Lesson 27.md",
     "Math 10 class/Lesson 26.md",
     "Math 10 class/Additional material 10.md",
-    "Math 10 class/All lessons.md",
     "Math 10 class/Lesson 25.md",
     "resourses/Math_10_class/Block_4/текстовые_задачи_на_двиЖение.pdf",
     "resourses/Math_10_class/Block_4/Не подтвержден 596443.crdownload",
@@ -230,9 +233,6 @@
     "Physics 10 class/Reference.md",
     "Physics 10 class/Platform guide.md",
     "Physics 10 class/Course tutorial 1.md",
-    "Physics 10 class/Course tutorial 0.md",
-    "Physics 10 class/Additional material 1.md",
-    "Physics 10 class/Additional material 2.md",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-10.jpg",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-08.jpg",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-07.jpg",

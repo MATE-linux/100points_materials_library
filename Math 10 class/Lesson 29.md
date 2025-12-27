@@ -11,5 +11,5 @@ link: https://lk.100points.ru/student/lesson/74645
 ---
 # Урок №29. Задание №10. Текстовые задачи движение по воде
 ## ТЕОРИЯ. Движение по воде.
-![[content/resourses/Math_10_class/Block_4/теория_движение_по_воде.pdf|теория_движение_по_воде]]  
+![[resourses/Math_10_class/Block_4/теория_движение_по_воде.pdf|теория_движение_по_воде]]  
 [<<Предыдущий](<../Math 10 class/Lesson 28.md>) [К списку](<Math 10 class/All lessons>) [Следующий>>](<Lesson 30.md>)  
