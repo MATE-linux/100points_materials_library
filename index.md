@@ -16,4 +16,4 @@ https://github.com/MATE-linux/100points_materials_library
 
 
 > [!Объявление] Идёт набор в корреспонденты сайта  
-> Подробнее здесь: [[Advertisement]]  
+> О том как стать корреспондентом подробнее здесь: [[Advertisement]]  
