@@ -32,7 +32,7 @@
 | [[Math 10 class/Lesson 28\|Lesson 28]] | Урок №28. Задание №4. Простая вероятность                                               | ТЕОРИЯ. Теория вероятностей.                                                                           | [Урок 28](https://lk.100points.ru/student/lesson/74644) |
 | [[Math 10 class/Lesson 29\|Lesson 29]] | Урок №29. Задание №10. Текстовые задачи движение по воде                                | ТЕОРИЯ. Движение по воде.                                                                              | [Урок 29](https://lk.100points.ru/student/lesson/74645) |
 | [[Math 10 class/Lesson 30\|Lesson 30]] | Урок №30. Задание №5. Сложная вероятность                                               | ТЕОРИЯ.Теория вероятностей: коспект-шпаргалка для ЕГЭ (номера 4 и 5)                                   | [Урок 30](https://lk.100points.ru/student/lesson/74646) |
-| [[Math 10 class/Lesson 31\|Lesson 31]] |                                                                                         |                                                                                                        | [Урок 31](https://lk.100points.ru/student/lesson/74647) |
+| [[Math 10 class/Lesson 31\|Lesson 31]] | Урок №31. Задание №10. Текстовые задачи на работу                                       | ТЕОРИЯ. Задачи на работу (ЕГЭ Профиль номер 10)                                                        | [Урок 31](https://lk.100points.ru/student/lesson/74647) |
 
 
 Также добавлю список дополнительных материалов из канала Дяди Артёма:
@@ -51,6 +51,7 @@
 | ШПАРГАЛКА. Прогрессии.                                    | [[Math 10 class/Additional material 8\|Additional material 8]]   | https://t.me/molodoy_repet/8767                         |
 | ШПАРГАЛКА. Куб, параллелепипед, призма.                   | [[Math 10 class/Additional material 9\|Additional material 9]]   | https://t.me/molodoy_repet/8786                         |
 | ШПАРГАЛКА. Площади всех фигур.                            | [[Math 10 class/Additional material 10\|Additional material 10]] | https://t.me/molodoy_repet/8837                         |
+| ШПАРГАЛКА. Методы решения систем уравнений.               | [[Math 10 class/Additional material 11\|Additional material 11]] | https://t.me/molodoy_repet/8975                         |
 
 Расписание курса: [[Shedule]]  
 Гайд по курсу: [[Math 10 class/Course guide]]  
