@@ -24,7 +24,8 @@
 Инструкция к курсу: [[Physics 10 class/Course tutorial 0|Course tutorial 0]]  
 Как учиться на физике: [[Physics 10 class/Course tutorial 1|Course tutorial 1]]  
 Гайд по работе с платформой 100б: [[Physics 10 class/Platform guide|Platform guide]]  
-Чек лист тем для 10 класса: [[Physics 10 class/Check|Check]]
+Чек лист тем для 10 класса: [[Physics 10 class/Check|Check]]  
+Все формулы для 10 класса: [[Full]]
   
 Загрузки:  
 - [Дополнительные материалы из канала Азата Адеева одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/physics-10-class-v4/physics_10_class_resources.zip)
