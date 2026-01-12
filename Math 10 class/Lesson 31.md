@@ -11,4 +11,4 @@ link: https://lk.100points.ru/student/lesson/74647
 # Урок №31. Задание №10. Текстовые задачи на работу
 ## ТЕОРИЯ. Задачи на работу (ЕГЭ Профиль номер 10)
 ![[resourses/Math_10_class/Block_4/теория_задачи_на_работу.pdf|теория_задачи_на_работу]]  
-[<<Предыдущий](<../Math 10 class/Lesson 30.md>) [К списку](<Math 10 class/All lessons>) 
+[<<Предыдущий](<../Math 10 class/Lesson 30.md>) [К списку](<Math 10 class/All lessons>) [Следующий>>](<Lesson 33.md>) 
