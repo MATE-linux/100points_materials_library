@@ -34,6 +34,6 @@
 
   
 Загрузки:  
-- [Дополнительные материалы из канала Азата Адеева одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/physics-10-class-v7/physics_10_class_resources.zip)
+- [Дополнительные материалы из канала Азата Адеева одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/physics-10-class-v9/physics_10_class_resources.zip)
   
 [На главную](index)  
