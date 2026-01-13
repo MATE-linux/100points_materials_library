@@ -62,6 +62,7 @@
 - [Материалы за блок 1 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_1/Block_1.zip)  
 - [Материалы за блок 2 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Block_2/Block_2.zip)  
 - [Материалы за блок 3 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Math_10_block_3/Block3_Math_10.zip)
-- [Материалы за все доступные блоки одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Math_10_block_3/Block1+2+3_Math_10.zip)  
+- [Материалы за блок 4 одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Math_10_Block_4/Block_4_Math_10.zip)  
+- [Материалы за все доступные блоки одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/Math_10_Block_4/Full_Math.zip)  
 - [Дополнительные материалы из канала Дяди Артёма одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/math-10-class-v9/math_10_class_resources.zip)
 [На главную](index)  

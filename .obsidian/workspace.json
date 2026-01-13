@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advertisement.md",
+                "file": "Chanelog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advertisement"
+              "title": "Chanelog"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 344.5
   },
   "right": {
     "id": "85ab19d49f04c465",
@@ -211,13 +211,15 @@
   },
   "active": "19048413ed811d9e",
   "lastOpenFiles": [
-    "Chanelog.md",
+    "Math 10 class/All lessons.md",
     "Physics 10 class/All lessons.md",
+    "Chanelog.md",
+    "templates/Lesson Template.md",
+    "Advertisement.md",
     "Physics 10 class/Lesson 1.md",
     "Math 10 class/Lesson 33.md",
     "Math 10 class/Lesson 31.md",
     "Math 10 class/Lesson 30.md",
-    "Math 10 class/All lessons.md",
     "resourses/Math_10_class/Block_5/теория_решения_уравнений.pdf",
     "resourses/Math_10_class/Block_5/Не подтвержден 128222.crdownload",
     "resourses/Math_10_class/Block_5",
@@ -236,7 +238,6 @@
     "Physics 10 class/Full.md",
     "index.md",
     "README.md",
-    "Advertisement.md",
     "Responsibles.md",
     "Russian language additionals/All lessons.md",
     "Physics 10 class/Additional material 6.md",
@@ -246,7 +247,6 @@
     "Math 10 class/Additional material 11.md",
     "Math 10 class/Lesson 29.md",
     "Math 10 class/Lesson 28.md",
-    "Math 10 class/Lesson 27.md",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-10.jpg",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-08.jpg",
     "resourses/Physics_10_class/Additional_material_6/photo_2025-12-15_17-59-07.jpg",
