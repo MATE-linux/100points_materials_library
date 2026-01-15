@@ -11,4 +11,4 @@ link: https://lk.100points.ru/student/lesson/74647
 # Урок №33. Задание №6. Уравнения
 ## ТЕОРИЯ. Решения уравнений
 ![[resourses/Math_10_class/Block_5/теория_решения_уравнений.pdf|теория_решения_уравнений]]  
-[<<Предыдущий](<../Math 10 class/Lesson 31.md>) [К списку](<Math 10 class/All lessons>)  
+[<<Предыдущий](<../Math 10 class/Lesson 31.md>) [К списку](<Math 10 class/All lessons>) [Следующий>>](<Lesson 34.md>)  
