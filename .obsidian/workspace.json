@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 10 class/All lessons.md",
+                "file": "Chanelog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All lessons"
+              "title": "Chanelog"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "768c6968f78b73b2",
   "lastOpenFiles": [
+    "Physics 10 class/All lessons.md",
     "Physics 10 class/Lesson 2.md",
     "Physics 10 class/Lesson 1.md",
     "Math 10 class/Lesson 34.md",
@@ -205,7 +206,6 @@
     "Math 10 class/All lessons.md",
     "Math 10 class/Lesson 33.md",
     "Math 10 class/Lesson 31.md",
-    "Physics 10 class/All lessons.md",
     "templates/Lesson Template.md",
     "Advertisement.md",
     "Math 10 class/Lesson 30.md",
