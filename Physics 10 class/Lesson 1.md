@@ -17,4 +17,4 @@ link: https://lk.100points.ru/student/lesson/77476
 # Урок №1. Основы МКТ. Количество вещества
 ## ТЕОРИЯ. Основы МКТ. Количество вещества.
 ![[resourses/Physics_10_class/Block_1/теория_основы_мкт_количество_вещества.pdf]]  
-[К списку](<Physics 10 class/All lessons.md>) 
+[К списку](<Physics 10 class/All lessons.md>) [Вперёд>>](<Lesson 2>)  

@@ -10,5 +10,5 @@ link: https://lk.100points.ru/student/lesson/76828
 ---
 # Урок №34. Задание № 16. Экономические задачи. Вклады.
 ## ТЕОРИЯ. Задача с экономическим содержанием.
-![[resourses/Physics_10_class/Block_1/теория_задача_с_экономическим_содержанием.pdf]]  
+![[resourses/Math_10_class/Block_5/теория_задача_с_экономическим_содержанием.pdf]]  
 [<<Предыдущий](<../Math 10 class/Lesson 33.md>) [К списку](<Math 10 class/All lessons>)  
