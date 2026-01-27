@@ -33,4 +33,6 @@
 | Алгоритм решения задач на импульс                                                                                                   | [[resourses/Mechanics_10_class/алгоритм_решения_задач_на_импульс.pdf\|алгоритм_решения_задач_на_импульс]]                                           |
 | Алгоритм решения задач на энергию                                                                                                   | [[resourses/Mechanics_10_class/алгоритм_решения_задач_на_энергию.pdf\|алгоритм_решения_задач_на_энергию]]                                           |
 
+**Загрузки:**  
+- [Все материалы одним архивом](https://github.com/MATE-linux/100points_materials_library/releases/download/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0_10_%D0%BA%D0%BB%D0%B0%D1%81%D1%81/Full_Mechanics.zip)
 [На главную](index)  
