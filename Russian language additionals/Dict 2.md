@@ -10,4 +10,4 @@ created: 2025-12-15
 # Список словарных слов
 ![[resourses/Russian_language_additionals/Список словарных слов.pdf|Список словарных слов]]
 Получено от бота: https://t.me/advent2026_100b_bot  
-[Назад](<All lessons>)  
+[Назад](<Russian language additionals/All lessons.md>)  

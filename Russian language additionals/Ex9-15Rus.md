@@ -16,4 +16,4 @@ created: 2025-12-15
 # Задания №9-15 ПРАКТИКУМ
 ![[resourses/Russian_language_additionals/Русский3_конспект2_Теория_Задания_№9_15.pdf|Русский3_конспект2_Теория_Задания_№9_15]]
 Получено от бота: https://t.me/ptipca_rus_bot  
-[Назад](<All lessons>)  
+[Назад](<Russian language additionals/All lessons.md>)  

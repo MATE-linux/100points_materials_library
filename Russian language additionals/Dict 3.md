@@ -11,4 +11,4 @@ created: 2025-12-15
 # Словарик фразеологизмов
 ![[resourses/Russian_language_additionals/Словарь фразеологизмов.pdf|Словарь фразеологизмов]]
 Получено от бота: https://t.me/advent2026_100b_bot  
-[Назад](<All lessons>)  
+[Назад](<Russian language additionals/All lessons.md>)  

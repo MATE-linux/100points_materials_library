@@ -14,4 +14,4 @@ created: 2025-12-15
 # Полный словник паронимов
 ![[resourses/Russian_language_additionals/Полный_словник_паронимов___Русский_.pdf|Полный_словник_паронимов___Русский_]]
 Получено от бота: https://t.me/advent2026_100b_bot  
-[Назад](<All lessons>)  
+[Назад](<Russian language additionals/All lessons.md>)  
